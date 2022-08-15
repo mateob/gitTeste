@@ -10,7 +10,7 @@ node_modules/
 
 # Bloqueadas
 # master / main - Produção
-# homolog / homologate / "release" / "release/x.x.x" - Homolocação ou QA (Analista de Qualidade) (TDD)
+# homolog / homologate / "release" / "release/x.x.x" - Homolocação ou QA (Analista de Qualidade) (TDD) --
 # develop / development - Branch de Desenvolvimento 
 
 # - Posicionar na Master / main
