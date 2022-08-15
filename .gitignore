@@ -1,0 +1,27 @@
+node_modules/
+
+
+
+# CD / CI - Pipeline
+# - Build - npx run build:prd
+# - Checar pasta Dist - if(dist exists)
+# - Inicializa testes - 
+
+
+# Bloqueadas
+# master / main - Produção
+# homolog / homologate / "release" / "release/x.x.x" - Homolocação ou QA (Analista de Qualidade) (TDD)
+# develop / development - Branch de Desenvolvimento 
+
+# - Posicionar na Master / main
+# - git checkout origin fix/DR-2051
+# - PR - fix/DR-2051 - Master / main
+# - PR - fix/DR-2051 - develop
+
+# fix/
+# feature/
+# bug/
+
+# DR-2051
+# feature/DR-2051
+# feature/font/DR-2051
